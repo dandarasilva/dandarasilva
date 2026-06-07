@@ -10,10 +10,6 @@
   </samp>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=dandarapsilva&s=20&c=7c73f7&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
-</div>
-
-<div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTExc2x1bGwwcHBzc28xcW85ajFwZG5jYzdhZmpocDdjNDFkeXlwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FZAmJToAKSsQOoRMxy/giphy.gif" width="200">
 </div>
 <div align="center">
